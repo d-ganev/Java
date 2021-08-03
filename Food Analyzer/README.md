@@ -1,4 +1,6 @@
-🍔 Food Analyzer is a server-client application which informs clients about nutrient facts of a particular food.
+# Food Analyzer 🍔
+it is a server-client application which informs clients about nutrient facts of a particular food.
+
     
     I. Work of server:
       
