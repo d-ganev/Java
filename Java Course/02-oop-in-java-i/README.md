@@ -1,3 +1,4 @@
+# Revolut
 Revolut simulates bank service application with the following functionalities:
 
     1.Managing different kinds of accounts and cards;
