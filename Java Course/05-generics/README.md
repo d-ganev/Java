@@ -1,6 +1,6 @@
 # Warehouse 📦
 
-This is a simulation of a modern Warehouse.
+This is a simulation of a modern Warehouse, where generic items are stored. Every item consists of a generic type parcel and a generic type label. 
 
     Functionalities of Warehouse:
      1. simulating submiting of a parcel;
